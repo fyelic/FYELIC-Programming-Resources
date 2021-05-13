@@ -1,0 +1,19 @@
+List of MATLAB topics to cover:
+How to use/navigate the IDE - Sharwin
+Taking Input/Output - Joe
+Reading from a file/Output to a file - Joe
+Printing, print variables - Joe
+Boolean Logic - Sharwin
+If statements - Sharwin
+Switch statements - Sharwin
+For loops - Chris
+While loops - Chris
+Figures and Plots, plotting data (multiple files for specifics) - Joe
+Using Keybaord/Mouse for input - Sharwin
+Using Comet - Sharwin
+1D Arrays, sorting , traversing, dynamically update , etc. - Chris
+2D Arrays - Chris
+Functions/Methods - Sharwin
+App designer - Final topic
+Using Random - Sharwin
+Debugging/Common Mistakes - Joe
