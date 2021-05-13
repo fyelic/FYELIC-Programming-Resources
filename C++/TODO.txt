@@ -1,2 +1,17 @@
 List of C++ topics to cover:
-edit this
+How to use/navigate the IDE
+Cin/Cout, print variables
+variable types
+Conditional statements/boolean logic
+Math Library, Modulus, PI, pow , abs, etc.
+If statements
+While loops
+For loops
+1D arrays, traversing , etc.
+2D arrays, traversing , etc.
+Switch Statements
+Input/Output Files
+Declaring and using Functions/Methods
+Passing by reference and value
+Using Random
+Debugging/Common mistakes

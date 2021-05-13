@@ -1,2 +1,19 @@
 List of MATLAB topics to cover:
-
+How to use/navigate the IDE
+Taking Input/Output
+Reading from a file/Output to a file
+Printing, print variables
+Boolean Logic
+If statements
+Switch statements
+For loops
+While loops
+Figures and Plots, plotting data (multiple files for specifics)
+Using Keybaord/Mouse for input
+Using Comet
+1D Arrays, sorting , traversing, dynamically update , etc.
+2D Arrays
+Functions/Methods
+App designer
+Using Random
+Debugging/Common Mistakes
